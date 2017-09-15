@@ -55,7 +55,7 @@ int main( int argc, char **argv )
     glfwSwapInterval( 1 );
 
     // Init UI
-    if (!imguiRenderGLInit("DroidSans.ttf"))
+    if (!imguiRenderGLInit("ttf/Consola.ttf"))
     {
         fprintf(stderr, "Could not init GUI renderer.\n");
         exit(EXIT_FAILURE);

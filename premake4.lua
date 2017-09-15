@@ -2,6 +2,8 @@
 -- authored from 2012-2013 by Adrien Herubel 
 
 solution "imgui"
+   location "build"
+   targetdir "build"
    configurations { "Debug", "Release" }
    platforms {"native", "x64", "x32"}
 
