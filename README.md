@@ -10,8 +10,6 @@ TrueType loading and rendering is done using stb_truetype : http://nothings.org/
 
 The OpenGL backend was ported from OpenGL immediate mode to OpenGL 3.2 mainly to be compatible with Mac OS X core profile.
 
-![Alt text](http://adrien.io/img/imgui/imgui.png)
-
 Build
 -------------------------
 The only depedency is OpenGL. GLFW, GLEW are embeded with the samples.
