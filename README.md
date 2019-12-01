@@ -2,6 +2,8 @@ imgui
 ================================
 A small multiplatform immediate mode graphical user interface with OpenGL3.2 backend.
 
+Imported from: https://github.com/ppiecuch/smallimgui
+
 About
 -------------------------
 Most of the code is pulled from the recast library : http://code.google.com/p/recastnavigation/
